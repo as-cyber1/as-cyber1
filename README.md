@@ -1,4 +1,4 @@
-# Hello!!
+# Welcome!
 
 Hello! I'm Allye Sneed, a recent graduate with a Master's degree in Cybersecurity & Information Assurance. My education has equipped me with a comprehensive understanding of modern cybersecurity threats, techniques for securing systems, and strategies for safeguarding sensitive data. Throughout my academic journey and practical projects, I've gained hands-on experience in network defense, incident response, and vulnerability management across diverse IT environments. My technical proficiency includes tools like Wireshark, [learn more tools] which I’ve applied in various home lab projects designed to simulate real-world cybersecurity challenges.
 
@@ -31,11 +31,6 @@ Set up a virtual lab environment with Windows Server 2022 as a domain controller
 ### Network 
  <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
- </div>
-
-### SIEM
- <div>
-     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
  </div>
 
  ### Cloud
