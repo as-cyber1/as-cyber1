@@ -5,6 +5,28 @@ I am a tech-saavy IT Professional with a profound interest in technology and a d
 ## Objective
 My journey in computer information systems has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
+## Projects
+
+### 1. [Active Directory Lab Setup](#active-directory-lab-setup)
+**Objective:**  
+Created a virtual lab to manage user authentication and permissions using Active Directory.
+
+**Technologies Used:**  
+`Windows Server 2022`, `Active Directory`, `Windows 10 Pro`, `Group Policy Objects (GPO)`
+
+[View Project Details](#project1)
+
+## Detailed Project Descriptions
+
+### <a id="project1"></a>Active Directory Lab Setup
+**Objective:**  
+Set up a virtual lab environment with Windows Server 2022 as a domain controller, managing Active Directory for user access control.
+
+**Description:**  
+- Configured user and group policies via Active Directory.
+- Implemented Group Policy Objects (GPOs).
+- Set up file sharing.
+
 ## Tools
 ### Network 
  <div>
