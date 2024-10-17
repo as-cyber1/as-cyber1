@@ -1,9 +1,9 @@
-# Hello, I'm Allye
+# Hello!!
 
-I am a tech-saavy IT Professional with a profound interest in technology and a dedication to solving complex problems currently pursuing my master's degree in Cybersecurity & Information Assurance. 
+Hello! I'm Allye Sneed, a recent graduate with a Master's degree in Cybersecurity & Information Assurance. My education has equipped me with a comprehensive understanding of modern cybersecurity threats, techniques for securing systems, and strategies for safeguarding sensitive data. Throughout my academic journey and practical projects, I've gained hands-on experience in network defense, incident response, and vulnerability management across diverse IT environments. My technical proficiency includes tools like Wireshark, [learn more tools] which I’ve applied in various home lab projects designed to simulate real-world cybersecurity challenges.
 
 ## Objective
-My journey in computer information systems has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+As a recent graduate with a Master's degree in Cybersecurity & Information Assurance, my objective is to apply the comprehensive knowledge and skills I’ve gained to effectively secure digital environments, mitigate risks, and safeguard critical data. I am committed to leveraging cutting-edge technologies, best practices, and hands-on experience in network defense, vulnerability management, and threat detection to address evolving cybersecurity challenges. Through this portfolio, I aim to demonstrate my ability to solve complex security problems and contribute to the security and resilience of organizations in today’s dynamic threat landscape.
 
 ## Projects
 
