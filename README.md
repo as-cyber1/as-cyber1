@@ -7,7 +7,7 @@ As a recent graduate with a Master's degree in Cybersecurity & Information Assur
 
 ## Projects
 
-### 1. [Active Directory Lab Setup](#active-directory-lab-setup)
+### 1. [Active Directory Home Lab](#active-directory-home-lab)
 **Objective:**  
 Created a virtual lab to manage user authentication and permissions using Active Directory.
 
@@ -18,7 +18,7 @@ Created a virtual lab to manage user authentication and permissions using Active
 
 ## Detailed Project Descriptions
 
-### <a id="project1"></a>Active Directory Lab Setup
+### <a id="project1"></a>Active Directory Home Lab
 **Objective:**  
 Set up a virtual lab environment with Windows Server 2022 as a domain controller, managing Active Directory for user access control.
 
