@@ -5,27 +5,13 @@ Hello! I'm Allye Sneed, a recent graduate with a Master's degree in Cybersecurit
 ## Objective
 As a recent graduate with a Master's degree in Cybersecurity & Information Assurance, my objective is to apply the comprehensive knowledge and skills I’ve gained to effectively secure digital environments, mitigate risks, and safeguard critical data. I am committed to leveraging cutting-edge technologies, best practices, and hands-on experience in network defense, vulnerability management, and threat detection to address evolving cybersecurity challenges. Through this portfolio, I aim to demonstrate my ability to solve complex security problems and contribute to the security and resilience of organizations in today’s dynamic threat landscape.
 
-## Projects
+## Skills
 
-### 1. [Active Directory Home Lab](#active-directory-home-lab)
-**Objective:**  
-Created a virtual lab to manage user authentication and permissions using Active Directory.
 
-**Technologies Used:**  
-`Windows Server 2022`, `Active Directory`, `Windows 10 Pro`, `Group Policy Objects (GPO)`
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Active Directory Home Lab         | <a href="</a>|
 
-[View Project Details](#project1)
-
-## Detailed Project Descriptions
-
-### <a id="project1"></a>Active Directory Home Lab
-**Objective:**  
-Set up a virtual lab environment with Windows Server 2022 as a domain controller, managing Active Directory for user access control.
-
-**Description:**  
-- Configured user and group policies via Active Directory.
-- Implemented Group Policy Objects (GPOs).
-- Set up file sharing.
 
 ## Tools
 ### Network 
@@ -46,3 +32,9 @@ Set up a virtual lab environment with Windows Server 2022 as a domain controller
 <img src="https://img.shields.io/badge/-CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
  <img src="https://img.shields.io/badge/-Pentest%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
+
+## Projects
+- Active Directory Home Lab
+
+
+
